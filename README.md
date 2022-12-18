@@ -1,10 +1,10 @@
 # sel0337_11234721
-**Repositório da prática 6 de micros 2
+**Repositório da prática 6 de micros 2:
 **
 
-Foi adicionado nesta pasta um zip contendo as duas versões do código desenvolvido para a prática 6, bem como a imagem e o vídeo capturado pela câmera.
+Foi adicionado nesta pasta um zip contendo as duas versões do código desenvolvido para a prática 6, bem como a imagem e o vídeo capturado pela RaspBerry.
 
-A primeira versão do código é "camera.py", cujo conteúdo é o código respondavel por tirar foto e capturar um vídeo do laboratório. A versão final é "pratica6_weather.py", que adiciona o código responsável por impotar os dados da base climática. Como a versão final consiste apenas na anexação de mais uma parcela de código, será comentada a lógica do "pratica6_weather.py" apenas.
+A primeira versão do código é "camera.py", cujo conteúdo é o código respondavel por tirar foto e capturar um vídeo do laboratório. A versão final é "pratica6_weather.py", que adiciona o código responsável por impotar os dados da base climática, o qual pode ser aprimorado para exibir os dados da estação meteorológica na imagem capturada pela câmera em aplicações futuras. Como a versão final consiste apenas na anexação de mais uma parcela de código, será comentada a lógica do "pratica6_weather.py" apenas.
 
 Para a utilização da câmera, importou-se as bibliotecas "requests", "json", "pprint", "picamera" e "time".
 
