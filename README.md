@@ -1,5 +1,6 @@
 # sel0337_11234721
-Repositório da prática 6 de micros 2
+**Repositório da prática 6 de micros 2
+**
 
 Foi adicionado nesta pasta um zip contendo as duas versões do código desenvolvido para a prática 6, bem como a imagem e o vídeo capturado pela câmera.
 
